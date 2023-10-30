@@ -6,7 +6,7 @@ class Main {
 
 class Calc {
 
-    public int run(String op) {
+    public Integer run(String op, int idx) {
         return 0;
     }
 
